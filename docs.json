@@ -3,9 +3,9 @@
   "theme": "almond",
   "name": "HFN",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#0b1f34",
+    "light": "#0a3446",
+    "dark": "#0a0e1c"
   },
   "favicon": "/favicon.svg",
   "navigation": {
